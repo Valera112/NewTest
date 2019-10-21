@@ -5,7 +5,7 @@ namespace Test
  {
      static void Main()
      {
-        Console.WriteLine("New Test");
+        Console.WriteLine("ProTip! Обновление вашего профиля с вашим именем, местоположением и изображением профиля помогает другим пользователям GitHub узнать вас.");
 
         Console.ReadKey();
 
